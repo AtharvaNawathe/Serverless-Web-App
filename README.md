@@ -69,6 +69,8 @@ Before you begin, ensure you have the following:
 2. Use the provided frontend interface to add products.
 3. The products will be stored in the DynamoDB table.
 
-## Project Structure
+
+![Screenshot from 2024-07-08 14-32-19](https://github.com/AtharvaNawathe/Serverless-Web-App/assets/63600324/0c39ea22-a861-434b-90db-5b269cedf0eb)
+![Screenshot from 2024-07-08 14-32-38](https://github.com/AtharvaNawathe/Serverless-Web-App/assets/63600324/e7fc935f-54f6-4fdc-93d0-5e2c0a08d6e1)
 
 
